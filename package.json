@@ -10,7 +10,7 @@
   "author": "Ranjan Kumar Pandey",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
